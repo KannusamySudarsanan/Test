@@ -1,1 +1,1 @@
-Welcome to GitHub Actions.
+Welcome to GitHub Actions.Some of the git commands had been added.
